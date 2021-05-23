@@ -13,7 +13,7 @@
 * The code implements Windowing, Formants, and Convertion to midi chromagram to all three wave sounds. Comments on the results are in the code.
 
 ### 'Pitch Exctraction' folder
-* The code uses the standard 'orchset' by importing mirdata.
+* The code uses the standard 'orchset'. The dataset cab be downloaded from https://zenodo.org/record/1289786#.YKqUs6IzZH5.
 * The code collects ground truth values from the satndard data.
 * The code makes prediction using Essentia-Melodia and Crepe Algorithms and check the prediction results in terms of Voicing Recall, Voicing False Alarm, Raw Pitch Accuracy, Raw Chroma Accuracy, and over all accuracy.
 *   Comments on the performance of the two algorithms are at the end.
