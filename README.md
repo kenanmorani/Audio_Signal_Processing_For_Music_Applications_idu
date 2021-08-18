@@ -4,7 +4,7 @@
 
 # The codes:
 ### 'Feature_Exctraction' folder
-* The following code checks wave sound files of two different categories, cough and sneez. Cough and sneez files exist in the 'data' folder above.
+* The code checks wave sound files of two different categories, cough and sneez. Cough and sneez files exist in the 'data' folder above.
 * The code works on features extraction for the chosen wave sounds of coughs and sneezes. The features extracted from the wave files include the amplitude frequency, spectrogram, Mel-frequency cepstral coeffecients and energy band ratio.
 * The code includes results-clearfying comments in a general sense.
 
