@@ -1,6 +1,5 @@
 # Audio Signal Processing for Music Applications_idu
-* The codes are solutions to assignments given during the course dilevered by Prof. Baris Bozkurt, at university.
-* The codes include audio analysis of coughing and sneezing wave sounds, recorded speech of me pronouncing different letters, and other publicly available annotated and standard audio datasets.
+The codes include audio analysis of coughing and sneezing wave sounds, recorded speech of me pronouncing different letters, and other publicly available annotated and standard audio datasets.
 
 # The Folders:
 ### 'Feature_Exctraction' folder
